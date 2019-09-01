@@ -1,0 +1,4 @@
+[build]
+base = "merlinshop/"
+publish = "merlinshop/build/"
+command = "npm run build"
